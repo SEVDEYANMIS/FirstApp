@@ -1,0 +1,5 @@
+personel ekleme ekleme ekrani tasarimi
+
+<div>
+      <h2>Bilge Adam</h2>
+</div>
